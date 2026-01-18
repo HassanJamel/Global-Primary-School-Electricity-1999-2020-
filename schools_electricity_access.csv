@@ -1,0 +1,754 @@
+Country Code,Country Name,Year,Electricity Access (%),Type
+ALB,Albania,2018,94.09,Country
+ALB,Albania,2019,97.71,Country
+AND,Andorra,2016,100.0,Country
+AND,Andorra,2017,100.0,Country
+AND,Andorra,2018,100.0,Country
+AND,Andorra,2019,100.0,Country
+AGO,Angola,2016,22.35,Country
+ATG,Antigua and Barbuda,2010,100.0,Country
+ATG,Antigua and Barbuda,2017,100.0,Country
+ATG,Antigua and Barbuda,2018,100.0,Country
+ARG,Argentina,2009,92.34,Country
+ARG,Argentina,2015,95.32,Country
+ARG,Argentina,2016,96.48,Country
+ARG,Argentina,2017,96.84,Country
+ARM,Armenia,2018,100.0,Country
+ARM,Armenia,2019,100.0,Country
+ABW,Aruba,2010,100.0,Country
+AUS,Australia,2000,100.0,Country
+AUS,Australia,2001,100.0,Country
+AUS,Australia,2002,100.0,Country
+AUS,Australia,2003,100.0,Country
+AUS,Australia,2004,100.0,Country
+AUS,Australia,2005,100.0,Country
+AUS,Australia,2006,100.0,Country
+AUS,Australia,2007,100.0,Country
+AUS,Australia,2008,100.0,Country
+AUS,Australia,2009,100.0,Country
+AUS,Australia,2010,100.0,Country
+AUS,Australia,2011,100.0,Country
+AUS,Australia,2012,100.0,Country
+AUS,Australia,2013,100.0,Country
+AUS,Australia,2014,100.0,Country
+AUS,Australia,2015,100.0,Country
+AUS,Australia,2016,100.0,Country
+AZE,Azerbaijan,2016,100.0,Country
+AZE,Azerbaijan,2017,100.0,Country
+AZE,Azerbaijan,2018,100.0,Country
+AZE,Azerbaijan,2019,100.0,Country
+BHS,"Bahamas, The",2009,100.0,Country
+BHR,Bahrain,2016,100.0,Country
+BHR,Bahrain,2017,100.0,Country
+BHR,Bahrain,2018,100.0,Country
+BHR,Bahrain,2019,100.0,Country
+BGD,Bangladesh,2012,55.38,Country
+BGD,Bangladesh,2016,43.34,Country
+BRB,Barbados,2009,100.0,Country
+BRB,Barbados,2015,100.0,Country
+BRB,Barbados,2016,100.0,Country
+BRB,Barbados,2017,100.0,Country
+BRB,Barbados,2018,100.0,Country
+BRB,Barbados,2019,100.0,Country
+BLR,Belarus,2016,100.0,Country
+BLR,Belarus,2017,100.0,Country
+BLR,Belarus,2018,100.0,Country
+BEL,Belgium,2003,100.0,Country
+BEL,Belgium,2004,100.0,Country
+BEL,Belgium,2005,100.0,Country
+BEL,Belgium,2006,100.0,Country
+BEL,Belgium,2007,100.0,Country
+BEL,Belgium,2008,100.0,Country
+BEL,Belgium,2009,100.0,Country
+BEL,Belgium,2010,100.0,Country
+BEL,Belgium,2011,100.0,Country
+BEL,Belgium,2012,100.0,Country
+BEL,Belgium,2013,100.0,Country
+BEL,Belgium,2014,100.0,Country
+BEL,Belgium,2015,100.0,Country
+BEL,Belgium,2016,100.0,Country
+BEL,Belgium,2017,100.0,Country
+BEL,Belgium,2018,100.0,Country
+BLZ,Belize,2010,84.18,Country
+BEN,Benin,2016,20.91,Country
+BEN,Benin,2018,25.59,Country
+BEN,Benin,2019,28.04,Country
+BMU,Bermuda,2016,100.0,Country
+BTN,Bhutan,2012,66.57,Country
+BTN,Bhutan,2015,87.35,Country
+BTN,Bhutan,2020,94.67,Country
+BOL,Bolivia,2013,72.06,Country
+BWA,Botswana,2012,79.19,Country
+BRA,Brazil,2010,90.44,Country
+BRA,Brazil,2017,95.79,Country
+VGB,British Virgin Islands,2010,100.0,Country
+VGB,British Virgin Islands,2016,100.0,Country
+VGB,British Virgin Islands,2017,100.0,Country
+VGB,British Virgin Islands,2018,100.0,Country
+BRN,Brunei Darussalam,2016,100.0,Country
+BRN,Brunei Darussalam,2017,100.0,Country
+BRN,Brunei Darussalam,2018,100.0,Country
+BRN,Brunei Darussalam,2019,100.0,Country
+BFA,Burkina Faso,2013,13.69,Country
+BFA,Burkina Faso,2016,15.86,Country
+BFA,Burkina Faso,2017,18.34,Country
+BFA,Burkina Faso,2018,19.21,Country
+BFA,Burkina Faso,2019,20.69,Country
+BDI,Burundi,2016,7.72,Country
+BDI,Burundi,2017,8.53,Country
+BDI,Burundi,2018,8.44,Country
+BDI,Burundi,2019,8.73,Country
+CPV,Cabo Verde,2016,71.5,Country
+CPV,Cabo Verde,2017,76.46,Country
+CPV,Cabo Verde,2018,79.27,Country
+CMR,Cameroon,2013,19.5,Country
+CMR,Cameroon,2016,25.07,Country
+CMR,Cameroon,2017,25.27,Country
+CMR,Cameroon,2018,27.74,Country
+CMR,Cameroon,2019,31.08,Country
+CYM,Cayman Islands,2010,100.0,Country
+CYM,Cayman Islands,2018,100.0,Country
+CAF,Central African Republic,2016,3.75,Country
+TCD,Chad,2017,3.42,Country
+TCD,Chad,2018,3.38,Country
+TCD,Chad,2019,2.9,Country
+CHN,China,2017,99.25,Country
+CHN,China,2018,99.25,Country
+CHN,China,2019,99.36,Country
+COL,Colombia,2016,94.93,Country
+COL,Colombia,2017,95.74,Country
+COM,Comoros,2017,40.88,Country
+COD,"Congo, Dem. Rep.",2015,9.36,Country
+CRI,Costa Rica,2010,88.15,Country
+CRI,Costa Rica,2016,96.95,Country
+CRI,Costa Rica,2017,98.4,Country
+CRI,Costa Rica,2018,96.15,Country
+CRI,Costa Rica,2019,99.13,Country
+CIV,Cote d'Ivoire,2016,28.67,Country
+CIV,Cote d'Ivoire,2017,29.94,Country
+CIV,Cote d'Ivoire,2018,38.22,Country
+CIV,Cote d'Ivoire,2019,45.84,Country
+CUB,Cuba,2010,100.0,Country
+CUB,Cuba,2018,100.0,Country
+CUB,Cuba,2019,100.0,Country
+CUW,Curacao,2010,100.0,Country
+DNK,Denmark,2001,100.0,Country
+DNK,Denmark,2002,100.0,Country
+DNK,Denmark,2003,100.0,Country
+DNK,Denmark,2004,100.0,Country
+DNK,Denmark,2005,100.0,Country
+DNK,Denmark,2006,100.0,Country
+DNK,Denmark,2007,100.0,Country
+DNK,Denmark,2008,100.0,Country
+DNK,Denmark,2009,100.0,Country
+DNK,Denmark,2010,100.0,Country
+DNK,Denmark,2011,100.0,Country
+DNK,Denmark,2012,100.0,Country
+DNK,Denmark,2013,100.0,Country
+DNK,Denmark,2014,100.0,Country
+DNK,Denmark,2015,100.0,Country
+DNK,Denmark,2016,100.0,Country
+DJI,Djibouti,2013,76.73,Country
+DJI,Djibouti,2017,95.15,Country
+DMA,Dominica,2010,100.0,Country
+DMA,Dominica,2016,100.0,Country
+DMA,Dominica,2019,100.0,Country
+EAS,East Asia & Pacific,2011,86.34,Aggregate
+EAS,East Asia & Pacific,2012,86.73,Aggregate
+EAS,East Asia & Pacific,2013,87.26,Aggregate
+EAS,East Asia & Pacific,2014,87.84,Aggregate
+EAS,East Asia & Pacific,2015,88.46,Aggregate
+EAS,East Asia & Pacific,2016,89.13,Aggregate
+EAS,East Asia & Pacific,2017,90.15,Aggregate
+EAS,East Asia & Pacific,2018,90.14,Aggregate
+EAS,East Asia & Pacific,2019,90.15,Aggregate
+ECU,Ecuador,2009,79.27,Country
+ECU,Ecuador,2016,75.29,Country
+ECU,Ecuador,2017,77.51,Country
+ECU,Ecuador,2018,78.89,Country
+EGY,"Egypt, Arab Rep.",2010,100.0,Country
+EGY,"Egypt, Arab Rep.",2016,100.0,Country
+SLV,El Salvador,2010,94.68,Country
+SLV,El Salvador,2016,97.94,Country
+SLV,El Salvador,2017,98.39,Country
+SLV,El Salvador,2018,98.39,Country
+ERI,Eritrea,2017,29.18,Country
+ERI,Eritrea,2018,28.67,Country
+EST,Estonia,2000,100.0,Country
+EST,Estonia,2001,100.0,Country
+EST,Estonia,2002,100.0,Country
+EST,Estonia,2003,100.0,Country
+EST,Estonia,2004,100.0,Country
+EST,Estonia,2005,100.0,Country
+EST,Estonia,2006,100.0,Country
+EST,Estonia,2007,100.0,Country
+EST,Estonia,2008,100.0,Country
+EST,Estonia,2009,100.0,Country
+EST,Estonia,2010,100.0,Country
+EST,Estonia,2011,100.0,Country
+EST,Estonia,2012,100.0,Country
+EST,Estonia,2013,100.0,Country
+EST,Estonia,2014,100.0,Country
+EST,Estonia,2015,100.0,Country
+EST,Estonia,2016,100.0,Country
+SWZ,Eswatini,2015,95.98,Country
+SWZ,Eswatini,2016,99.68,Country
+SWZ,Eswatini,2017,100.0,Country
+SWZ,Eswatini,2018,100.0,Country
+ECS,Europe & Central Asia,2000,99.86,Aggregate
+ECS,Europe & Central Asia,2001,99.82,Aggregate
+ECS,Europe & Central Asia,2002,99.79,Aggregate
+ECS,Europe & Central Asia,2003,99.76,Aggregate
+ECS,Europe & Central Asia,2016,99.68,Aggregate
+ECS,Europe & Central Asia,2017,99.68,Aggregate
+FJI,Fiji,2016,98.08,Country
+FIN,Finland,2000,100.0,Country
+FIN,Finland,2001,100.0,Country
+FIN,Finland,2002,100.0,Country
+FIN,Finland,2003,100.0,Country
+FIN,Finland,2004,100.0,Country
+FIN,Finland,2005,100.0,Country
+FIN,Finland,2006,100.0,Country
+FIN,Finland,2007,100.0,Country
+FIN,Finland,2008,100.0,Country
+FIN,Finland,2009,100.0,Country
+FIN,Finland,2010,100.0,Country
+FIN,Finland,2011,100.0,Country
+FIN,Finland,2012,100.0,Country
+FIN,Finland,2013,100.0,Country
+FIN,Finland,2014,100.0,Country
+FIN,Finland,2015,100.0,Country
+FIN,Finland,2016,100.0,Country
+FIN,Finland,2017,100.0,Country
+FIN,Finland,2018,100.0,Country
+FIN,Finland,2019,100.0,Country
+FRA,France,2001,100.0,Country
+FRA,France,2002,100.0,Country
+FRA,France,2003,100.0,Country
+FRA,France,2004,100.0,Country
+FRA,France,2005,100.0,Country
+FRA,France,2006,100.0,Country
+FRA,France,2007,100.0,Country
+FRA,France,2008,100.0,Country
+FRA,France,2009,100.0,Country
+FRA,France,2010,100.0,Country
+FRA,France,2011,100.0,Country
+FRA,France,2012,100.0,Country
+FRA,France,2013,100.0,Country
+FRA,France,2014,100.0,Country
+FRA,France,2015,100.0,Country
+FRA,France,2016,100.0,Country
+FRA,France,2017,100.0,Country
+FRA,France,2018,100.0,Country
+GMB,"Gambia, The",2016,43.22,Country
+GMB,"Gambia, The",2017,35.81,Country
+GMB,"Gambia, The",2019,34.4,Country
+GEO,Georgia,2016,100.0,Country
+GEO,Georgia,2017,99.74,Country
+GEO,Georgia,2018,100.0,Country
+GEO,Georgia,2019,100.0,Country
+DEU,Germany,2000,100.0,Country
+DEU,Germany,2001,100.0,Country
+DEU,Germany,2002,100.0,Country
+DEU,Germany,2003,100.0,Country
+DEU,Germany,2004,100.0,Country
+DEU,Germany,2005,100.0,Country
+DEU,Germany,2006,100.0,Country
+DEU,Germany,2007,100.0,Country
+DEU,Germany,2008,100.0,Country
+DEU,Germany,2009,100.0,Country
+DEU,Germany,2010,100.0,Country
+DEU,Germany,2011,100.0,Country
+DEU,Germany,2012,100.0,Country
+DEU,Germany,2013,100.0,Country
+DEU,Germany,2014,100.0,Country
+DEU,Germany,2015,100.0,Country
+DEU,Germany,2016,100.0,Country
+DEU,Germany,2017,100.0,Country
+DEU,Germany,2018,100.0,Country
+GHA,Ghana,2018,24.95,Country
+GIB,Gibraltar,2016,100.0,Country
+GIB,Gibraltar,2017,100.0,Country
+GIB,Gibraltar,2019,100.0,Country
+GRD,Grenada,2010,100.0,Country
+GRD,Grenada,2016,100.0,Country
+GRD,Grenada,2017,100.0,Country
+GRD,Grenada,2018,100.0,Country
+GIN,Guinea,2013,9.77,Country
+GIN,Guinea,2016,13.98,Country
+HIC,High income,1999,96.74,Aggregate
+HIC,High income,2000,96.89,Aggregate
+HIC,High income,2001,97.02,Aggregate
+HIC,High income,2002,97.13,Aggregate
+HIC,High income,2003,97.24,Aggregate
+HIC,High income,2004,97.34,Aggregate
+HIC,High income,2015,97.79,Aggregate
+HIC,High income,2016,97.87,Aggregate
+HIC,High income,2017,98.03,Aggregate
+HND,Honduras,2016,48.11,Country
+HND,Honduras,2019,91.25,Country
+HKG,"Hong Kong SAR, China",2012,100.0,Country
+HKG,"Hong Kong SAR, China",2016,100.0,Country
+HKG,"Hong Kong SAR, China",2017,100.0,Country
+HKG,"Hong Kong SAR, China",2018,100.0,Country
+HKG,"Hong Kong SAR, China",2019,100.0,Country
+HUN,Hungary,2000,100.0,Country
+HUN,Hungary,2001,100.0,Country
+HUN,Hungary,2002,100.0,Country
+HUN,Hungary,2003,100.0,Country
+HUN,Hungary,2004,100.0,Country
+HUN,Hungary,2005,100.0,Country
+HUN,Hungary,2006,100.0,Country
+HUN,Hungary,2007,100.0,Country
+HUN,Hungary,2008,100.0,Country
+HUN,Hungary,2009,100.0,Country
+HUN,Hungary,2010,100.0,Country
+HUN,Hungary,2011,100.0,Country
+HUN,Hungary,2012,100.0,Country
+HUN,Hungary,2013,100.0,Country
+HUN,Hungary,2014,100.0,Country
+HUN,Hungary,2015,100.0,Country
+HUN,Hungary,2016,100.0,Country
+IND,India,2012,45.38,Country
+IND,India,2016,47.39,Country
+IND,India,2017,49.35,Country
+IND,India,2018,51.84,Country
+IND,India,2019,65.19,Country
+IDN,Indonesia,2012,79.67,Country
+IDN,Indonesia,2016,90.45,Country
+IDN,Indonesia,2017,93.04,Country
+IDN,Indonesia,2018,93.13,Country
+IRN,"Iran, Islamic Rep.",2012,99.16,Country
+ISR,Israel,2000,100.0,Country
+ISR,Israel,2001,100.0,Country
+ISR,Israel,2002,100.0,Country
+ISR,Israel,2003,100.0,Country
+ISR,Israel,2004,100.0,Country
+ISR,Israel,2005,100.0,Country
+ISR,Israel,2006,100.0,Country
+ISR,Israel,2007,100.0,Country
+ISR,Israel,2008,100.0,Country
+ISR,Israel,2009,100.0,Country
+ISR,Israel,2010,100.0,Country
+ISR,Israel,2011,100.0,Country
+ISR,Israel,2012,100.0,Country
+ISR,Israel,2013,100.0,Country
+ISR,Israel,2014,100.0,Country
+ISR,Israel,2015,100.0,Country
+ISR,Israel,2016,100.0,Country
+ITA,Italy,2000,100.0,Country
+ITA,Italy,2001,100.0,Country
+ITA,Italy,2002,100.0,Country
+ITA,Italy,2003,100.0,Country
+ITA,Italy,2004,100.0,Country
+ITA,Italy,2005,100.0,Country
+ITA,Italy,2006,100.0,Country
+ITA,Italy,2007,100.0,Country
+ITA,Italy,2008,100.0,Country
+ITA,Italy,2009,100.0,Country
+ITA,Italy,2010,100.0,Country
+ITA,Italy,2011,100.0,Country
+ITA,Italy,2012,100.0,Country
+ITA,Italy,2013,100.0,Country
+ITA,Italy,2014,100.0,Country
+ITA,Italy,2015,100.0,Country
+ITA,Italy,2016,100.0,Country
+JAM,Jamaica,2010,100.0,Country
+JAM,Jamaica,2016,93.92,Country
+JAM,Jamaica,2017,93.93,Country
+JAM,Jamaica,2018,99.89,Country
+JAM,Jamaica,2019,100.0,Country
+JOR,Jordan,2011,99.48,Country
+JOR,Jordan,2018,35.58,Country
+JOR,Jordan,2019,35.75,Country
+KAZ,Kazakhstan,2017,100.0,Country
+KAZ,Kazakhstan,2018,100.0,Country
+KAZ,Kazakhstan,2019,100.0,Country
+KEN,Kenya,2016,82.62,Country
+KOR,"Korea, Rep.",2000,100.0,Country
+KOR,"Korea, Rep.",2001,100.0,Country
+KOR,"Korea, Rep.",2002,100.0,Country
+KOR,"Korea, Rep.",2003,100.0,Country
+KOR,"Korea, Rep.",2004,100.0,Country
+KOR,"Korea, Rep.",2005,100.0,Country
+KOR,"Korea, Rep.",2006,100.0,Country
+KOR,"Korea, Rep.",2007,100.0,Country
+KOR,"Korea, Rep.",2008,100.0,Country
+KOR,"Korea, Rep.",2009,100.0,Country
+KOR,"Korea, Rep.",2010,100.0,Country
+KOR,"Korea, Rep.",2011,100.0,Country
+KOR,"Korea, Rep.",2012,100.0,Country
+KOR,"Korea, Rep.",2013,100.0,Country
+KOR,"Korea, Rep.",2014,100.0,Country
+KOR,"Korea, Rep.",2015,100.0,Country
+KOR,"Korea, Rep.",2016,100.0,Country
+KWT,Kuwait,2016,100.0,Country
+KWT,Kuwait,2017,100.0,Country
+KWT,Kuwait,2018,100.0,Country
+KWT,Kuwait,2019,100.0,Country
+KGZ,Kyrgyz Republic,2017,100.0,Country
+LAO,Lao PDR,2012,18.74,Country
+LAO,Lao PDR,2016,37.26,Country
+LAO,Lao PDR,2019,50.18,Country
+LCN,Latin America & Caribbean,2009,83.01,Aggregate
+LCN,Latin America & Caribbean,2010,82.97,Aggregate
+LCN,Latin America & Caribbean,2011,83.56,Aggregate
+LCN,Latin America & Caribbean,2012,84.3,Aggregate
+LCN,Latin America & Caribbean,2013,84.99,Aggregate
+LCN,Latin America & Caribbean,2014,85.69,Aggregate
+LCN,Latin America & Caribbean,2015,86.4,Aggregate
+LCN,Latin America & Caribbean,2016,87.14,Aggregate
+LCN,Latin America & Caribbean,2017,88.03,Aggregate
+LCN,Latin America & Caribbean,2018,89.11,Aggregate
+LVA,Latvia,2016,100.0,Country
+LBN,Lebanon,2016,100.0,Country
+LBN,Lebanon,2017,100.0,Country
+LBN,Lebanon,2018,100.0,Country
+LBN,Lebanon,2019,100.0,Country
+LSO,Lesotho,2013,11.62,Country
+LBR,Liberia,2016,11.8,Country
+LBR,Liberia,2017,10.29,Country
+LIC,Low income,2015,32.1,Aggregate
+LIC,Low income,2016,32.13,Aggregate
+LIC,Low income,2017,32.45,Aggregate
+LIC,Low income,2018,32.47,Aggregate
+LMC,Lower middle income,2011,49.99,Aggregate
+LMC,Lower middle income,2012,49.97,Aggregate
+LMC,Lower middle income,2013,50.58,Aggregate
+LMC,Lower middle income,2014,51.19,Aggregate
+LMC,Lower middle income,2015,51.77,Aggregate
+LMC,Lower middle income,2016,52.26,Aggregate
+LMC,Lower middle income,2017,53.36,Aggregate
+LMC,Lower middle income,2018,54.72,Aggregate
+MAC,"Macao SAR, China",2016,100.0,Country
+MAC,"Macao SAR, China",2017,100.0,Country
+MAC,"Macao SAR, China",2018,100.0,Country
+MAC,"Macao SAR, China",2019,100.0,Country
+MDG,Madagascar,2016,8.53,Country
+MDG,Madagascar,2017,8.95,Country
+MDG,Madagascar,2018,8.32,Country
+MDG,Madagascar,2019,8.24,Country
+MWI,Malawi,2016,22.32,Country
+MWI,Malawi,2017,23.68,Country
+MWI,Malawi,2018,24.96,Country
+MWI,Malawi,2019,27.3,Country
+MYS,Malaysia,2011,100.0,Country
+MYS,Malaysia,2016,99.28,Country
+MYS,Malaysia,2017,100.0,Country
+MYS,Malaysia,2018,97.97,Country
+MYS,Malaysia,2019,92.88,Country
+MDV,Maldives,2012,100.0,Country
+MDV,Maldives,2016,100.0,Country
+MDV,Maldives,2017,100.0,Country
+MDV,Maldives,2018,100.0,Country
+MDV,Maldives,2019,100.0,Country
+MLI,Mali,2017,15.57,Country
+MHL,Marshall Islands,2016,54.26,Country
+MHL,Marshall Islands,2019,74.47,Country
+MRT,Mauritania,2016,28.31,Country
+MRT,Mauritania,2017,28.49,Country
+MRT,Mauritania,2018,39.57,Country
+MRT,Mauritania,2019,44.0,Country
+MUS,Mauritius,2010,100.0,Country
+MUS,Mauritius,2011,100.0,Country
+MUS,Mauritius,2012,97.5,Country
+MUS,Mauritius,2013,100.0,Country
+MUS,Mauritius,2014,100.0,Country
+MUS,Mauritius,2015,100.0,Country
+MUS,Mauritius,2016,100.0,Country
+MUS,Mauritius,2017,100.0,Country
+MUS,Mauritius,2018,100.0,Country
+MUS,Mauritius,2019,100.0,Country
+MEA,Middle East and North Africa,2011,95.98,Aggregate
+MEA,Middle East and North Africa,2012,95.56,Aggregate
+MEA,Middle East and North Africa,2013,95.21,Aggregate
+MEA,Middle East and North Africa,2016,94.46,Aggregate
+MEA,Middle East and North Africa,2017,94.3,Aggregate
+MDA,Moldova,2016,100.0,Country
+MDA,Moldova,2017,100.0,Country
+MDA,Moldova,2018,100.0,Country
+MDA,Moldova,2019,100.0,Country
+MCO,Monaco,2016,100.0,Country
+MCO,Monaco,2017,100.0,Country
+MCO,Monaco,2018,100.0,Country
+MCO,Monaco,2019,100.0,Country
+MCO,Monaco,2020,100.0,Country
+MAR,Morocco,2016,93.12,Country
+MAR,Morocco,2017,94.62,Country
+MAR,Morocco,2018,95.65,Country
+MAR,Morocco,2019,96.19,Country
+MMR,Myanmar,2017,27.39,Country
+NAM,Namibia,2017,71.18,Country
+NAM,Namibia,2018,72.55,Country
+NRU,Nauru,2016,66.67,Country
+NRU,Nauru,2019,100.0,Country
+NPL,Nepal,2011,6.59,Country
+NLD,Netherlands,2000,100.0,Country
+NLD,Netherlands,2001,100.0,Country
+NLD,Netherlands,2002,100.0,Country
+NLD,Netherlands,2003,100.0,Country
+NLD,Netherlands,2004,100.0,Country
+NLD,Netherlands,2005,100.0,Country
+NLD,Netherlands,2006,100.0,Country
+NLD,Netherlands,2007,100.0,Country
+NLD,Netherlands,2008,100.0,Country
+NLD,Netherlands,2009,100.0,Country
+NLD,Netherlands,2010,100.0,Country
+NLD,Netherlands,2011,100.0,Country
+NLD,Netherlands,2012,100.0,Country
+NLD,Netherlands,2013,100.0,Country
+NLD,Netherlands,2014,100.0,Country
+NLD,Netherlands,2015,100.0,Country
+NLD,Netherlands,2016,100.0,Country
+NLD,Netherlands,2017,100.0,Country
+NLD,Netherlands,2018,100.0,Country
+NLD,Netherlands,2019,100.0,Country
+NIC,Nicaragua,2010,24.15,Country
+NER,Niger,2013,4.41,Country
+NER,Niger,2016,3.07,Country
+NER,Niger,2017,5.18,Country
+NER,Niger,2018,5.4,Country
+NER,Niger,2019,6.73,Country
+NOR,Norway,2000,100.0,Country
+NOR,Norway,2001,100.0,Country
+NOR,Norway,2002,100.0,Country
+NOR,Norway,2003,100.0,Country
+NOR,Norway,2004,100.0,Country
+NOR,Norway,2005,100.0,Country
+NOR,Norway,2006,100.0,Country
+NOR,Norway,2007,100.0,Country
+NOR,Norway,2008,100.0,Country
+NOR,Norway,2009,100.0,Country
+NOR,Norway,2010,100.0,Country
+NOR,Norway,2011,100.0,Country
+NOR,Norway,2012,100.0,Country
+NOR,Norway,2013,100.0,Country
+NOR,Norway,2014,100.0,Country
+NOR,Norway,2015,100.0,Country
+NOR,Norway,2016,100.0,Country
+NOR,Norway,2017,100.0,Country
+NOR,Norway,2018,100.0,Country
+NOR,Norway,2019,100.0,Country
+NOR,Norway,2020,100.0,Country
+OMN,Oman,2011,100.0,Country
+OMN,Oman,2016,100.0,Country
+OMN,Oman,2017,100.0,Country
+OMN,Oman,2018,100.0,Country
+OMN,Oman,2019,100.0,Country
+PRY,Paraguay,2010,91.23,Country
+PRY,Paraguay,2016,93.81,Country
+PER,Peru,2016,78.3,Country
+PER,Peru,2017,76.45,Country
+PER,Peru,2018,79.93,Country
+PER,Peru,2019,89.37,Country
+PHL,Philippines,2018,93.94,Country
+POL,Poland,2000,100.0,Country
+POL,Poland,2001,100.0,Country
+POL,Poland,2002,100.0,Country
+POL,Poland,2003,100.0,Country
+POL,Poland,2004,100.0,Country
+POL,Poland,2005,100.0,Country
+POL,Poland,2006,100.0,Country
+POL,Poland,2007,100.0,Country
+POL,Poland,2008,100.0,Country
+POL,Poland,2009,100.0,Country
+POL,Poland,2010,100.0,Country
+POL,Poland,2011,100.0,Country
+POL,Poland,2012,100.0,Country
+POL,Poland,2013,100.0,Country
+POL,Poland,2014,100.0,Country
+POL,Poland,2015,100.0,Country
+POL,Poland,2016,100.0,Country
+PRT,Portugal,2000,100.0,Country
+PRT,Portugal,2001,100.0,Country
+PRT,Portugal,2002,100.0,Country
+PRT,Portugal,2003,100.0,Country
+PRT,Portugal,2004,100.0,Country
+PRT,Portugal,2005,100.0,Country
+PRT,Portugal,2006,100.0,Country
+PRT,Portugal,2007,100.0,Country
+PRT,Portugal,2008,100.0,Country
+PRT,Portugal,2009,100.0,Country
+PRT,Portugal,2010,100.0,Country
+PRT,Portugal,2011,100.0,Country
+PRT,Portugal,2012,100.0,Country
+PRT,Portugal,2013,100.0,Country
+PRT,Portugal,2014,100.0,Country
+PRT,Portugal,2015,100.0,Country
+PRT,Portugal,2016,100.0,Country
+PRT,Portugal,2017,100.0,Country
+PRT,Portugal,2018,100.0,Country
+QAT,Qatar,2011,100.0,Country
+QAT,Qatar,2016,100.0,Country
+QAT,Qatar,2017,100.0,Country
+QAT,Qatar,2018,100.0,Country
+QAT,Qatar,2019,100.0,Country
+RWA,Rwanda,2011,23.36,Country
+RWA,Rwanda,2012,25.17,Country
+RWA,Rwanda,2013,31.41,Country
+RWA,Rwanda,2014,37.85,Country
+RWA,Rwanda,2015,39.35,Country
+RWA,Rwanda,2016,39.62,Country
+RWA,Rwanda,2019,60.79,Country
+WSM,Samoa,2016,100.0,Country
+WSM,Samoa,2017,100.0,Country
+WSM,Samoa,2018,100.0,Country
+WSM,Samoa,2019,100.0,Country
+SMR,San Marino,2018,100.0,Country
+SMR,San Marino,2019,100.0,Country
+STP,Sao Tome and Principe,2013,87.5,Country
+STP,Sao Tome and Principe,2017,86.96,Country
+SAU,Saudi Arabia,2016,100.0,Country
+SAU,Saudi Arabia,2017,100.0,Country
+SAU,Saudi Arabia,2018,100.0,Country
+SAU,Saudi Arabia,2019,100.0,Country
+SEN,Senegal,2019,44.1,Country
+SYC,Seychelles,2016,100.0,Country
+SYC,Seychelles,2017,100.0,Country
+SYC,Seychelles,2018,100.0,Country
+SYC,Seychelles,2019,100.0,Country
+SLE,Sierra Leone,2017,4.2,Country
+SLE,Sierra Leone,2018,5.61,Country
+SLE,Sierra Leone,2019,13.04,Country
+SGP,Singapore,2016,100.0,Country
+SGP,Singapore,2017,100.0,Country
+SGP,Singapore,2018,100.0,Country
+SXM,Sint Maarten (Dutch part),2010,100.0,Country
+SVK,Slovak Republic,2014,100.0,Country
+SVK,Slovak Republic,2015,100.0,Country
+SVK,Slovak Republic,2016,100.0,Country
+SVN,Slovenia,2000,100.0,Country
+SVN,Slovenia,2001,100.0,Country
+SVN,Slovenia,2002,100.0,Country
+SVN,Slovenia,2003,100.0,Country
+SVN,Slovenia,2004,100.0,Country
+SVN,Slovenia,2005,100.0,Country
+SVN,Slovenia,2006,100.0,Country
+SVN,Slovenia,2007,100.0,Country
+SVN,Slovenia,2008,100.0,Country
+SVN,Slovenia,2009,100.0,Country
+SVN,Slovenia,2010,100.0,Country
+SVN,Slovenia,2011,100.0,Country
+SVN,Slovenia,2012,100.0,Country
+SVN,Slovenia,2013,100.0,Country
+SVN,Slovenia,2014,100.0,Country
+SVN,Slovenia,2015,100.0,Country
+SVN,Slovenia,2016,100.0,Country
+SLB,Solomon Islands,2016,49.93,Country
+SLB,Solomon Islands,2017,50.5,Country
+SLB,Solomon Islands,2018,49.65,Country
+SAS,South Asia,2011,47.82,Aggregate
+SAS,South Asia,2012,47.86,Aggregate
+SAS,South Asia,2013,48.33,Aggregate
+SAS,South Asia,2014,48.8,Aggregate
+SAS,South Asia,2015,49.23,Aggregate
+SAS,South Asia,2016,49.47,Aggregate
+SAS,South Asia,2017,50.89,Aggregate
+SAS,South Asia,2018,52.63,Aggregate
+SAS,South Asia,2019,62.24,Aggregate
+ESP,Spain,2000,100.0,Country
+ESP,Spain,2001,100.0,Country
+ESP,Spain,2002,100.0,Country
+ESP,Spain,2003,100.0,Country
+ESP,Spain,2004,100.0,Country
+ESP,Spain,2005,100.0,Country
+ESP,Spain,2006,100.0,Country
+ESP,Spain,2007,100.0,Country
+ESP,Spain,2008,100.0,Country
+ESP,Spain,2009,100.0,Country
+ESP,Spain,2010,100.0,Country
+ESP,Spain,2011,100.0,Country
+ESP,Spain,2012,100.0,Country
+ESP,Spain,2013,100.0,Country
+ESP,Spain,2014,100.0,Country
+ESP,Spain,2015,100.0,Country
+ESP,Spain,2016,100.0,Country
+ESP,Spain,2017,100.0,Country
+ESP,Spain,2018,100.0,Country
+LKA,Sri Lanka,2016,94.74,Country
+LKA,Sri Lanka,2017,96.66,Country
+LKA,Sri Lanka,2018,99.96,Country
+KNA,St. Kitts and Nevis,2010,100.0,Country
+KNA,St. Kitts and Nevis,2016,100.0,Country
+LCA,St. Lucia,2010,100.0,Country
+LCA,St. Lucia,2016,98.75,Country
+LCA,St. Lucia,2017,98.75,Country
+LCA,St. Lucia,2018,100.0,Country
+LCA,St. Lucia,2019,98.75,Country
+VCT,St. Vincent and the Grenadines,2010,100.0,Country
+VCT,St. Vincent and the Grenadines,2016,100.0,Country
+VCT,St. Vincent and the Grenadines,2017,100.0,Country
+VCT,St. Vincent and the Grenadines,2018,100.0,Country
+SSF,Sub-Saharan Africa,2015,30.83,Aggregate
+SSF,Sub-Saharan Africa,2016,31.76,Aggregate
+SSF,Sub-Saharan Africa,2017,31.7,Aggregate
+SSF,Sub-Saharan Africa,2018,31.68,Aggregate
+SSF,Sub-Saharan Africa,2019,31.83,Aggregate
+SDN,Sudan,2016,54.08,Country
+SUR,Suriname,2009,88.86,Country
+CHE,Switzerland,2011,100.0,Country
+CHE,Switzerland,2012,100.0,Country
+CHE,Switzerland,2013,100.0,Country
+CHE,Switzerland,2014,100.0,Country
+CHE,Switzerland,2015,100.0,Country
+CHE,Switzerland,2016,100.0,Country
+TZA,Tanzania,2012,11.87,Country
+TZA,Tanzania,2016,85.43,Country
+TZA,Tanzania,2019,37.33,Country
+THA,Thailand,2011,100.0,Country
+THA,Thailand,2019,99.82,Country
+TLS,Timor-Leste,2018,82.14,Country
+TLS,Timor-Leste,2019,84.19,Country
+TGO,Togo,2017,24.18,Country
+TGO,Togo,2018,24.95,Country
+TGO,Togo,2019,22.14,Country
+TTO,Trinidad and Tobago,2009,100.0,Country
+TUN,Tunisia,2016,99.73,Country
+TUN,Tunisia,2017,99.9,Country
+TUN,Tunisia,2018,99.94,Country
+TKM,Turkmenistan,2019,100.0,Country
+TCA,Turks and Caicos Islands,2010,100.0,Country
+TCA,Turks and Caicos Islands,2018,100.0,Country
+TUV,Tuvalu,2016,100.0,Country
+TUV,Tuvalu,2018,100.0,Country
+TUV,Tuvalu,2019,100.0,Country
+UKR,Ukraine,2016,100.0,Country
+UKR,Ukraine,2017,100.0,Country
+UKR,Ukraine,2018,100.0,Country
+UKR,Ukraine,2019,100.0,Country
+ARE,United Arab Emirates,2016,100.0,Country
+ARE,United Arab Emirates,2017,100.0,Country
+UMC,Upper middle income,2011,88.92,Aggregate
+UMC,Upper middle income,2012,89.23,Aggregate
+UMC,Upper middle income,2013,89.92,Aggregate
+UMC,Upper middle income,2014,90.64,Aggregate
+UMC,Upper middle income,2015,91.39,Aggregate
+UMC,Upper middle income,2016,92.16,Aggregate
+UMC,Upper middle income,2017,92.73,Aggregate
+UMC,Upper middle income,2018,92.9,Aggregate
+UMC,Upper middle income,2019,93.52,Aggregate
+URY,Uruguay,2009,95.72,Country
+URY,Uruguay,2015,100.0,Country
+URY,Uruguay,2016,100.0,Country
+URY,Uruguay,2017,100.0,Country
+URY,Uruguay,2018,100.0,Country
+UZB,Uzbekistan,2017,100.0,Country
+UZB,Uzbekistan,2018,100.0,Country
+UZB,Uzbekistan,2019,100.0,Country
+VEN,"Venezuela, RB",2010,53.57,Country
+VEN,"Venezuela, RB",2016,99.48,Country
+PSE,West Bank and Gaza,2016,100.0,Country
+PSE,West Bank and Gaza,2017,100.0,Country
+PSE,West Bank and Gaza,2018,100.0,Country
+PSE,West Bank and Gaza,2019,100.0,Country
+WLD,World,2011,65.64,Aggregate
+WLD,World,2012,65.48,Aggregate
+WLD,World,2013,66.18,Aggregate
+WLD,World,2014,66.89,Aggregate
+WLD,World,2015,67.6,Aggregate
+WLD,World,2016,68.34,Aggregate
+WLD,World,2017,68.77,Aggregate
+WLD,World,2018,69.4,Aggregate
+WLD,World,2019,72.95,Aggregate
+ZMB,Zambia,2016,32.37,Country
+ZMB,Zambia,2017,36.4,Country
