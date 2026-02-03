@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="Global Primary School Electricity Access.png" alt="Global Primary School Electricity Access (1999–2020)" width="900"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/global-primary-school-electricity-1999-2020" target="_blank">
+    <img src="Global Primary School Electricity Access.png" alt="Hassan Jameel" width="900">
+  </a>
 </p>
 
 # 🌐 Global Primary School Electricity Access (1999–2020)
