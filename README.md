@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.kaggle.com/code/hassanjameelahmed/adobe-adbe-daily-stock-prices-2000-2026" target="_blank">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/global-primary-school-electricity-1999-2020" target="_blank">
     <img src="Global Primary School Electricity Access.png" alt="Hassan Jameel" width="900">
   </a>
 </p>
